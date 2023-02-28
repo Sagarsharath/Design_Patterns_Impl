@@ -1,0 +1,10 @@
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\bin\Debug\netcoreapp2.1\Strategy_Pattern.deps.json
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\bin\Debug\netcoreapp2.1\Strategy_Pattern.runtimeconfig.json
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\bin\Debug\netcoreapp2.1\Strategy_Pattern.runtimeconfig.dev.json
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\bin\Debug\netcoreapp2.1\Strategy_Pattern.dll
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\bin\Debug\netcoreapp2.1\Strategy_Pattern.pdb
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\obj\Debug\netcoreapp2.1\Strategy_Pattern.csproj.CoreCompileInputs.cache
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\obj\Debug\netcoreapp2.1\Strategy_Pattern.AssemblyInfoInputs.cache
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\obj\Debug\netcoreapp2.1\Strategy_Pattern.AssemblyInfo.cs
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\obj\Debug\netcoreapp2.1\Strategy_Pattern.dll
+D:\Sharath\Code-time\Projects_Git\Design_Patterns_Impl\Strategy_Pattern\Strategy_Pattern_Impl\Strategy_Pattern\obj\Debug\netcoreapp2.1\Strategy_Pattern.pdb
